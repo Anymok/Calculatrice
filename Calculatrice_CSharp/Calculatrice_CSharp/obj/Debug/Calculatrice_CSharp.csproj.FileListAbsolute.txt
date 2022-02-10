@@ -1,0 +1,24 @@
+C:\Users\Anymok\Desktop\Calculatrice\Calculatrice_CSharp\Calculatrice_CSharp\bin\Debug\Calculatrice_CSharp.exe.config
+C:\Users\Anymok\Desktop\Calculatrice\Calculatrice_CSharp\Calculatrice_CSharp\bin\Debug\Calculatrice_CSharp.exe
+C:\Users\Anymok\Desktop\Calculatrice\Calculatrice_CSharp\Calculatrice_CSharp\bin\Debug\Calculatrice_CSharp.pdb
+C:\Users\Anymok\Desktop\Calculatrice\Calculatrice_CSharp\Calculatrice_CSharp\obj\Debug\Calculatrice_CSharp.csprojAssemblyReference.cache
+C:\Users\Anymok\Desktop\Calculatrice\Calculatrice_CSharp\Calculatrice_CSharp\obj\Debug\Calculatrice_CSharp.FM_Calculatrice.resources
+C:\Users\Anymok\Desktop\Calculatrice\Calculatrice_CSharp\Calculatrice_CSharp\obj\Debug\Calculatrice_CSharp.Properties.Resources.resources
+C:\Users\Anymok\Desktop\Calculatrice\Calculatrice_CSharp\Calculatrice_CSharp\obj\Debug\Calculatrice_CSharp.csproj.GenerateResource.cache
+C:\Users\Anymok\Desktop\Calculatrice\Calculatrice_CSharp\Calculatrice_CSharp\obj\Debug\Calculatrice_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Anymok\Desktop\Calculatrice\Calculatrice_CSharp\Calculatrice_CSharp\obj\Debug\Calculatrice_CSharp.exe
+C:\Users\Anymok\Desktop\Calculatrice\Calculatrice_CSharp\Calculatrice_CSharp\obj\Debug\Calculatrice_CSharp.pdb
+C:\Users\Anymok\Desktop\SIO 2\Matières\Tronc Commun\Mercy\Exercice\Calculatrice\Calculatrice_CSharp\Calculatrice_CSharp\bin\Debug\Calculatrice_CSharp.exe.config
+C:\Users\Anymok\Desktop\SIO 2\Matières\Tronc Commun\Mercy\Exercice\Calculatrice\Calculatrice_CSharp\Calculatrice_CSharp\bin\Debug\Calculatrice_CSharp.exe.manifest
+C:\Users\Anymok\Desktop\SIO 2\Matières\Tronc Commun\Mercy\Exercice\Calculatrice\Calculatrice_CSharp\Calculatrice_CSharp\bin\Debug\Calculatrice_CSharp.application
+C:\Users\Anymok\Desktop\SIO 2\Matières\Tronc Commun\Mercy\Exercice\Calculatrice\Calculatrice_CSharp\Calculatrice_CSharp\bin\Debug\Calculatrice_CSharp.exe
+C:\Users\Anymok\Desktop\SIO 2\Matières\Tronc Commun\Mercy\Exercice\Calculatrice\Calculatrice_CSharp\Calculatrice_CSharp\bin\Debug\Calculatrice_CSharp.pdb
+C:\Users\Anymok\Desktop\SIO 2\Matières\Tronc Commun\Mercy\Exercice\Calculatrice\Calculatrice_CSharp\Calculatrice_CSharp\obj\Debug\Calculatrice_CSharp.csprojAssemblyReference.cache
+C:\Users\Anymok\Desktop\SIO 2\Matières\Tronc Commun\Mercy\Exercice\Calculatrice\Calculatrice_CSharp\Calculatrice_CSharp\obj\Debug\Calculatrice_CSharp.FM_Calculatrice.resources
+C:\Users\Anymok\Desktop\SIO 2\Matières\Tronc Commun\Mercy\Exercice\Calculatrice\Calculatrice_CSharp\Calculatrice_CSharp\obj\Debug\Calculatrice_CSharp.Properties.Resources.resources
+C:\Users\Anymok\Desktop\SIO 2\Matières\Tronc Commun\Mercy\Exercice\Calculatrice\Calculatrice_CSharp\Calculatrice_CSharp\obj\Debug\Calculatrice_CSharp.csproj.GenerateResource.cache
+C:\Users\Anymok\Desktop\SIO 2\Matières\Tronc Commun\Mercy\Exercice\Calculatrice\Calculatrice_CSharp\Calculatrice_CSharp\obj\Debug\Calculatrice_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Anymok\Desktop\SIO 2\Matières\Tronc Commun\Mercy\Exercice\Calculatrice\Calculatrice_CSharp\Calculatrice_CSharp\obj\Debug\Calculatrice_CSharp.exe.manifest
+C:\Users\Anymok\Desktop\SIO 2\Matières\Tronc Commun\Mercy\Exercice\Calculatrice\Calculatrice_CSharp\Calculatrice_CSharp\obj\Debug\Calculatrice_CSharp.application
+C:\Users\Anymok\Desktop\SIO 2\Matières\Tronc Commun\Mercy\Exercice\Calculatrice\Calculatrice_CSharp\Calculatrice_CSharp\obj\Debug\Calculatrice_CSharp.exe
+C:\Users\Anymok\Desktop\SIO 2\Matières\Tronc Commun\Mercy\Exercice\Calculatrice\Calculatrice_CSharp\Calculatrice_CSharp\obj\Debug\Calculatrice_CSharp.pdb
